@@ -14,7 +14,7 @@ This project was developed as part of a **[school](https://formations.pantheonso
 
 The dataset used in this project is a **synthetic dataset** published on [Kaggle](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance), titled:
 
-**"Student Lifestyle and Performance Data"**  
+**"Student Habits vs Academic Performance"**  
 - 1,000 student records
 - 15+ features including:
   - Study time
